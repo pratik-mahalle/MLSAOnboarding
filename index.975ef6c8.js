@@ -27187,7 +27187,7 @@ const imageAltText = "purple and blue abstract background";
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */ const skillsList = [
-    "DevoOps",
+    "DevOps",
     "Web Development",
     "Cyber Security",
     "APIs",
